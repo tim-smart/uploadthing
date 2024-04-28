@@ -11,7 +11,7 @@
   "dependencies": {
     "@uploadthing/nuxt": "6.5.1",
     "nuxt": "^3.11.2",
-    "uploadthing": "6.10.0",
+    "uploadthing": "6.10.1",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
   }

@@ -1,5 +1,12 @@
 # uploadthing
 
+## 6.10.1
+
+### Patch Changes
+
+- Updated dependencies [[`6906254`](https://github.com/pingdotgg/uploadthing/commit/690625458338a70df5927f1d2405de0de4a58d8f)]:
+  - @uploadthing/mime-types@0.2.9
+
 ## 6.10.0
 
 ### Minor Changes

@@ -23,7 +23,7 @@
     "@uploadthing/react": "6.5.0",
     "concurrently": "^8.2.2",
     "typescript": "^5.4.5",
-    "uploadthing": "6.10.0"
+    "uploadthing": "6.10.1"
   },
   "devDependencies": {
     "@playwright/test": "1.42.1"

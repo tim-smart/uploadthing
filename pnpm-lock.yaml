@@ -123,7 +123,7 @@ importers:
         specifier: ^5.4.5
         version: 5.4.5
       uploadthing:
-        specifier: 6.10.0
+        specifier: 6.10.1
         version: link:../../packages/uploadthing
     devDependencies:
       '@playwright/test':
@@ -142,7 +142,7 @@ importers:
         specifier: 18.2.0
         version: 18.2.0(react@18.2.0)
       uploadthing:
-        specifier: 6.10.0
+        specifier: 6.10.1
         version: link:../../../packages/uploadthing
     devDependencies:
       '@types/react':
@@ -167,7 +167,7 @@ importers:
         specifier: 6.5.0
         version: link:../../../packages/vue
       uploadthing:
-        specifier: 6.10.0
+        specifier: 6.10.1
         version: link:../../../packages/uploadthing
       vue:
         specifier: ^3.4.21
@@ -222,7 +222,7 @@ importers:
         specifier: ^1.7.2
         version: 1.7.2
       uploadthing:
-        specifier: 6.10.0
+        specifier: 6.10.1
         version: link:../../../packages/uploadthing
     devDependencies:
       '@cloudflare/workers-types':
@@ -259,7 +259,7 @@ importers:
         specifier: 18.2.0
         version: 18.2.0(react@18.2.0)
       uploadthing:
-        specifier: 6.10.0
+        specifier: 6.10.1
         version: link:../../packages/uploadthing
     devDependencies:
       '@types/node':
@@ -296,7 +296,7 @@ importers:
         specifier: 18.2.0
         version: 18.2.0(react@18.2.0)
       uploadthing:
-        specifier: 6.10.0
+        specifier: 6.10.1
         version: link:../../packages/uploadthing
     devDependencies:
       '@types/react':
@@ -315,7 +315,7 @@ importers:
         specifier: ^3.11.2
         version: 3.11.2(@types/node@20.12.7)(@unocss/reset@0.59.4)(floating-vue@5.2.2)(typescript@5.4.5)(unocss@0.59.4)(vite@5.2.10)
       uploadthing:
-        specifier: 6.10.0
+        specifier: 6.10.1
         version: link:../../packages/uploadthing
       vue:
         specifier: ^3.4.21
@@ -339,7 +339,7 @@ importers:
         specifier: 18.2.0
         version: 18.2.0(react@18.2.0)
       uploadthing:
-        specifier: 6.10.0
+        specifier: 6.10.1
         version: link:../../packages/uploadthing
     devDependencies:
       '@types/node':
@@ -373,7 +373,7 @@ importers:
         specifier: ^1.8.15
         version: 1.8.16
       uploadthing:
-        specifier: 6.10.0
+        specifier: 6.10.1
         version: link:../../packages/uploadthing
       vinxi:
         specifier: 0.3.11
@@ -401,7 +401,7 @@ importers:
         specifier: 6.5.0
         version: link:../../packages/svelte
       uploadthing:
-        specifier: 6.10.0
+        specifier: 6.10.1
         version: link:../../packages/uploadthing
     devDependencies:
       '@sveltejs/adapter-auto':
@@ -450,7 +450,7 @@ importers:
         specifier: 18.2.0
         version: 18.2.0(react@18.2.0)
       uploadthing:
-        specifier: 6.10.0
+        specifier: 6.10.1
         version: link:../../packages/uploadthing
       zod:
         specifier: ^3.22.4
@@ -505,7 +505,7 @@ importers:
         specifier: 18.2.0
         version: 18.2.0(react@18.2.0)
       uploadthing:
-        specifier: 6.10.0
+        specifier: 6.10.1
         version: link:../../packages/uploadthing
       zod:
         specifier: ^3.22.4
@@ -563,7 +563,7 @@ importers:
         specifier: 18.2.0
         version: 18.2.0(react@18.2.0)
       uploadthing:
-        specifier: 6.10.0
+        specifier: 6.10.1
         version: link:../../packages/uploadthing
       zod:
         specifier: ^3.22.4
@@ -630,7 +630,7 @@ importers:
         specifier: ^2.2.5
         version: 2.2.5(react@18.2.0)
       uploadthing:
-        specifier: 6.10.0
+        specifier: 6.10.1
         version: link:../../packages/uploadthing
       zod:
         specifier: ^3.22.4
@@ -688,7 +688,7 @@ importers:
         specifier: ^11.0.5
         version: 11.0.5(react@18.2.0)
       uploadthing:
-        specifier: 6.10.0
+        specifier: 6.10.1
         version: link:../../packages/uploadthing
     devDependencies:
       '@types/node':
@@ -716,7 +716,7 @@ importers:
         specifier: 18.2.0
         version: 18.2.0(react@18.2.0)
       uploadthing:
-        specifier: 6.10.0
+        specifier: 6.10.1
         version: link:../../packages/uploadthing
     devDependencies:
       '@types/node':
@@ -747,7 +747,7 @@ importers:
         specifier: 18.2.0
         version: 18.2.0(react@18.2.0)
       uploadthing:
-        specifier: 6.10.0
+        specifier: 6.10.1
         version: link:../../packages/uploadthing
     devDependencies:
       '@types/node':
